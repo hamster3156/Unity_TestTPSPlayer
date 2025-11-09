@@ -1,4 +1,4 @@
-# TPS_MovePlayer
+# Unity_TestTPSPlayer
 入力移動、ジャンプ、カメラ操作などTPSの基本操作ができるテストプレイヤーのスクリプトです。\
 InputSystem、Cinemachineのプラグインが必要なので、利用する前にプロジェクトにインポートしてください。
 
